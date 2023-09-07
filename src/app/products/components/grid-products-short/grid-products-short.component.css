@@ -1,0 +1,20 @@
+.contaienrcardProduct{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+.contaienrcardProduct img{
+    margin: 10px;
+    padding: 5px;
+}
+.containerCard{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.containerImgProduct{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

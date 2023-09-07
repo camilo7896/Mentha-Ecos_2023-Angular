@@ -1,0 +1,28 @@
+.container{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+
+}
+.icon{
+    background: none;
+    margin: 5px;
+    width: 80px;
+    height: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 5px;
+
+}
+
+.icon img{
+    border-radius: 100%;
+    -webkit-box-shadow: 10px 10px 68px -2px rgba(0,0,0,0.75);
+-moz-box-shadow: 10px 10px 68px -2px rgba(0,0,0,0.75);
+box-shadow: 10px 10px 68px -2px rgba(0,0,0,0.75);}
+
+.btn{
+    background: none;
+}
